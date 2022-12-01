@@ -137,6 +137,7 @@
       "Pink-50": {
         "$value": "#f63e7c",
         "$type": "color"
+        "$description": "This is our primary pink"
       },
       "Pink-40": {
         "$value": "#fb6b9b",

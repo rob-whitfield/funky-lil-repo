@@ -843,6 +843,10 @@
       "60": {
         "value": "{Spacing.10} * 10",
         "type": "spacing"
+      },
+      "70": {
+        "value": "{Spacing.10} * 12",
+        "type": "spacing"
       }
     }
   },

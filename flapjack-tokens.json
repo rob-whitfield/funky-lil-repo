@@ -1219,7 +1219,7 @@
     "Component": {
       "Background": {
         "Primary-Container": {
-          "value": "{Core.Blue.Blue-50}",
+          "value": "{Core.Blue.Blue-20}",
           "type": "color"
         },
         "Secondary-Container": {

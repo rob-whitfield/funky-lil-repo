@@ -953,7 +953,7 @@
     "fontWeights": {
       "styleguide-font": {
         "medium": {
-          "value": "Medium",
+          "value": "Bold",
           "type": "fontWeights"
         },
         "bold": {

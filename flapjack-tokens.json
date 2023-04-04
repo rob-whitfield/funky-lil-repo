@@ -882,6 +882,12 @@
           "value": "{Background.Neutral.Sunk}",
           "type": "color"
         }
+      },
+      "Header": {
+        "Background": {
+          "value": "{Background.Neutral.Ground}",
+          "type": "color"
+        }
       }
     }
   },
@@ -1316,6 +1322,12 @@
         },
         "Hover": {
           "value": "#F8D347",
+          "type": "color"
+        }
+      },
+      "Header": {
+        "Background": {
+          "value": "#e9eef2",
           "type": "color"
         }
       }
